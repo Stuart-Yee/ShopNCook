@@ -1,0 +1,42 @@
+# General
+node_modules/
+.next/
+out/
+build/
+dist/
+*.log
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Firebase
+.firebase/
+.firebaserc
+.firebase.json
+*.firebaserc
+*.firebase.json
+firebase.js
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm run build'
+.out/
+.build/
+.DS_Store
